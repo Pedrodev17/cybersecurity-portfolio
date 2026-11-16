@@ -63,10 +63,17 @@ Repositório com exercícios práticos de cybersecurity, feitos como parte da mi
 
 ---
 
-### 🎯 Próximos passos
+## 🎯 HackTheBox — Starting Point
 
-- [ ] Adicionar notas e labs da preparação para **eJPT**
-- [ ] Incluir write-ups de máquinas (TryHackMe / HTB) conforme forem concluídas
+Writeups das máquinas concluídas na trilha Starting Point, cobrindo enumeração, exploração e mapeamento OWASP/CWE:
+
+- [Dancing](htb-writeups/dancing.md) — SMB / Acesso Anônimo
+- [Redeemer](htb-writeups/redeemer.md) — Redis sem autenticação
+- [Appointment](htb-writeups/appointment.md) — SQL Injection
+- [Sequel](htb-writeups/sequel.md) — Credenciais padrão MySQL
+- [Crocodile](htb-writeups/crocodile.md) — FTP anônimo + reuso de credenciais
+- [Responder](htb-writeups/responder.md) — LLMNR/NBT-NS Poisoning
+- [Three](htb-writeups/three.md) — S3 Bucket mal configurado
 
 ---
 
